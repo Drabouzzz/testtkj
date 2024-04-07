@@ -1,0 +1,34 @@
+*html, head, body {
+    padding: none;
+    margin: none;
+}
+.navbar-brand {
+    padding-right: 12px;
+    margin-right: 12px;
+}
+body {
+    background-color: #3a3a3a;
+   
+    
+    
+}
+.isi {
+    
+   
+    width: 720px;
+    background-color:#3a3a3a;
+}
+.container {
+    width: 720px;
+    display: flex;
+    justify-content: center;
+    background-color: #3a3a3a;
+    margin-top: 50px;
+}
+.footer {
+    background-color: #fff;
+    margin-bottom: -20px;
+}
+.kaki{
+    padding-top: 20px;
+}
